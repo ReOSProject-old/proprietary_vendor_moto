@@ -426,4 +426,5 @@ PRODUCT_COPY_FILES += \
     vendor/moto/shamu/proprietary/vendor/firmware/aonvr2.bin:system/vendor/firmware/aonvr2.bin \
     vendor/moto/shamu/proprietary/vendor/firmware/bcm20795_firmware.ncd:system/vendor/firmware/bcm20795_firmware.ncd \
     vendor/moto/shamu/proprietary/vendor/firmware/bcm4354A2.hcd:system/vendor/firmware/bcm4354A2.hcd \
-    vendor/moto/shamu/proprietary/xbin/wlutil:system/xbin/wlutil
+    vendor/moto/shamu/proprietary/xbin/wlutil:system/xbin/wlutil \
+	vendor/moto/shamu/proprietary/priv-app/MotoSignatureApp/MotoSignatureApp.apk:system/priv-app/MotoSignatureApp/MotoSignatureApp.apk
